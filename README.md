@@ -179,5 +179,5 @@ One page, Teal and Amber theme:
 ```
 
 ## Author
-
-rutika 
+Name: Rutika 
+Linkedin: https://www.linkedin.com/in/rutika-musale-597a6739b
